@@ -1,12 +1,13 @@
 ---
-title: ""
-collection: 
-category: 
+title: "Simulation-based Inference for Stochastic and Deterministic Epidemic Models."
+collection: publications
+category: conferences
 permalink: ''
 excerpt: ''
-date: 
-venue: ''
+date: 2026-06-02
+venue: 'Warwick FSEM 2026 Early Career Researcher Symposium'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://warwick.ac.uk/fac/sci/staffresources/postdocsymposium/'
+bibtexurl: ''
 citation: ''
 ---
