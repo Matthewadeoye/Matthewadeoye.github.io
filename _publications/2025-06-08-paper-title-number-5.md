@@ -2,7 +2,6 @@
 title: "Bayesian Spatio-temporal Modelling for Infectious Disease Outbreak Detection."
 collection: publications
 category: manuscripts
-permalink: ''
 excerpt: ''
 date: 2025-12-18
 venue: 'Epidemics'
