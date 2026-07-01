@@ -7,6 +7,6 @@ excerpt: ''
 date: 2026-05-05
 venue: 'arXiv (under review)'
 slidesurl: ''
-paperurl: '[doi.org/10.48550/arXiv.2605.03608](https://doi.org/10.48550/arXiv.2605.03608)'
+paperurl: 'https://doi.org/10.48550/arXiv.2605.03608'
 citation: ''
 ---
