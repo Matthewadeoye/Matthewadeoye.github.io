@@ -1,7 +1,7 @@
 ---
 title: "Simulation-based Inference for Stochastic and Deterministic Epidemic Models."
 collection: publications
-category: manuscripts
+category: conferences
 permalink: ''
 excerpt: ''
 date: 2026-06-02
