@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Matthew Oluwasegun Adeoye"
-  pronouns         : "he/him"  
-  bio              : "Final-year PhD Student in Statistics"
+  pronouns         : #  
+  bio              : "Final-year PhD Candidate in Statistics"
   location         : "Coventry, United Kingdom"
   employer         : "University of Warwick"
   uri              : "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/adeoye/"
