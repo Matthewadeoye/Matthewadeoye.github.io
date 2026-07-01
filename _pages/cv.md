@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Statistics, University of Warwick, 2026
+* MSc in Medical Statistics, University of London (LSHTM), 2022
+* BSc in Statistics, University of Abuja, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Graduate Teaching Assistant
+  * University of Warwick
+  * Duties includes: Teaching/Marking/Exam invigilation of undergraduate & postgraduate statistics and mathematical epidemiology modules.
+  * Modules taught:
   
 Skills
 ======
