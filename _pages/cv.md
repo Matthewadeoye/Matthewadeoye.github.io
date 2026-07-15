@@ -20,16 +20,20 @@ Work experience
 * Senior Graduate Teaching Assistant
   * University of Warwick
   * Duties includes: Teaching/Marking/Exam invigilation of undergraduate & postgraduate statistics and mathematical epidemiology modules.
-  * Modules taught:
+  * 2024/25 (Term 2): [MA4M1/MA6M1 Epidemiology by Example](https://warwick.ac.uk/fac/sci/maths/currentstudents/currentpostgraduates/phd_studies/modules/ma6m1/)
+  * 2024/25 (Term 1): [ST232/ST233 Introduction to Mathematical Statistics](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st233)
+  * 2023/24 (Term 2): [MA4M1/MA6M1 Epidemiology by Example](https://warwick.ac.uk/fac/sci/maths/currentstudents/currentpostgraduates/phd_studies/modules/ma6m1/) (Marking)
+  * 2023/24 (Term 2): [ST117 Introduction to Statistical Modelling](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st117)
+  * 2023/24 (Term 1): [APTS Statistical Computing lab seminars](https://warwick.ac.uk/fac/sci/statistics/apts/programme/statcomp)
+  * 2023/24 (Term 1): [ST229 Probability for Mathematical Statistics](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st229)
+  * 2022/23 (Term 2): [ST117 Introduction to Statistical Modelling](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st117)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical modelling
+* Bayesian inference and computation methods
+* Programming languages
+  * R, Stan, C++, Stata
 
 Publications
 ======
@@ -49,6 +53,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
