@@ -8,16 +8,17 @@ redirect_from:
 ---
 I have accepted a Research Associate position in Spatial Modelling at [Imperial College London](https://www.imperial.ac.uk/).
 
-I am currently a final-year PhD candidate in the [Warwick Mathematics and Statistics Centre for Doctoral Training](https://warwick.ac.uk/fac/sci/statistics/) working under the joint supervision of [Professor Xavier Didelot](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/didelot) and [Professor Simon Spencer](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/spencer). My PhD research is focused on Bayesian inference for spatio-temporal epidemic modelling. In particular, it involves Markov chain Monte Carlo methods, latent non-Gaussian hierarchical modelling, filtering methods for state space and hidden Markov models, outbreak detection, and likelihood-free methods for fitting infectious disease transmission models to data.
+I have recently submitted my PhD thesis within the [Warwick Mathematics and Statistics Centre for Doctoral Training](https://warwick.ac.uk/fac/sci/statistics/), jointly supervised by [Professor Xavier Didelot](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/didelot) and [Professor Simon Spencer](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/spencer). My PhD research focused on Bayesian inference for spatio-temporal epidemic modelling. In particular, it involves Markov chain Monte Carlo methods, latent non-Gaussian hierarchical modelling, filtering methods for state space and hidden Markov models, outbreak detection, and likelihood-free methods for fitting infectious disease transmission models to data.
 
 Prior to starting my PhD at Warwick, I obtained a Master's degree in Medical Statistics from the University of London, School of Hygiene and Tropical Medicine, and a Bachelor's degree in Statistics from the University of Abuja.
 
 Awards/Grants/Recognitions
 ======
-1. STEM For BRITAIN Finalist (Mathematical Sciences), Houses of Parliament, London, UK, 2026.
-2. BioInference Reproducibility Award, Turin, Italy, 2025. 
-3. £3000 Monash-Warwick-Alliance PhD Travel Grant for research study visit to Monash University, Melbourne, Australia, 2025.
-4. Early Career Researcher grant for London Mathematical Society - Bath Symposium on Inverse Problems and Artificial Intelligence in Medicine, Bath, UK, 2025.
+1. UK Global Talent Endorsement by the [UKRI](https://www.ukri.org/).
+2. STEM For BRITAIN Finalist (Mathematical Sciences), Houses of Parliament, London, UK, 2026.
+3. BioInference Reproducibility Award, Turin, Italy, 2025. 
+4. £3000 Monash-Warwick-Alliance PhD Travel Grant for research study visit to Monash University, Melbourne, Australia, 2025.
+5. Early Career Researcher grant for London Mathematical Society - Bath Symposium on Inverse Problems and Artificial Intelligence in Medicine, Bath, UK, 2025.
 
 Academic service/Other activities
 ======
