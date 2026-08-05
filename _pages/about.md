@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matthew Oluwasegun Adeoye"
+title: "Matthew Adeoye"
 author_profile: true
 redirect_from: 
   - /about/
