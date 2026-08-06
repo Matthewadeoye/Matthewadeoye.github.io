@@ -24,11 +24,11 @@ repository               : "Matthewadeoye/Matthewadeoye.github.io"
 author:
   # Biographic information
   avatar           : "Matt1.png"
-  name             : "Matthew Oluwasegun Adeoye"
+  name             : "Matthew Adeoye"
   pronouns         : #  
-  bio              : "Final-year PhD Candidate in Statistics"
-  location         : "Coventry, United Kingdom"
-  employer         : "University of Warwick"
+  bio              : "PhD Candidate in Statistics"
+  location         : "London, United Kingdom"
+  employer         : "Imperial College London"
   uri              : "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/adeoye/"
   email            : "Matthew.Adeoye@warwick.ac.uk" 
 
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Matthew-Adeoye"
   scopus           : # URL
   zotero           : # URL
 
