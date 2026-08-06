@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Matthew Adeoye"
+title                    : "Matthew Oluwasegun Adeoye"
 title_separator          : "-"
-name                     : &name "Matthew Adeoye"
+name                     : &name "Matthew Oluwasegun Adeoye"
 description              : &description "Matthew Adeoye's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://matthewadeoye.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,11 +24,11 @@ repository               : "Matthewadeoye/Matthewadeoye.github.io"
 author:
   # Biographic information
   avatar           : "Matt1.png"
-  name             : "Matthew Adeoye"
+  name             : "Matthew Oluwasegun Adeoye"
   pronouns         : #  
-  bio              : "PhD Candidate in Statistics"
-  location         : "London, United Kingdom"
-  employer         : "Imperial College London"
+  bio              : "Final-year PhD Candidate in Statistics"
+  location         : "Coventry, United Kingdom"
+  employer         : "University of Warwick"
   uri              : "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/adeoye/"
   email            : "Matthew.Adeoye@warwick.ac.uk" 
 
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Matthew-Adeoye"
+  researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
 
