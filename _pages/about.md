@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I have accepted a Research Associate position in Spatial Modelling at [Imperial College London](https://www.imperial.ac.uk/).
+I am a Postdoctoral Researcher in Spatial Modelling at [Imperial College London](https://www.imperial.ac.uk/).
 
-I have recently submitted my PhD thesis within the [Warwick Mathematics and Statistics Centre for Doctoral Training](https://warwick.ac.uk/fac/sci/statistics/), jointly supervised by [Professor Xavier Didelot](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/didelot) and [Professor Simon Spencer](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/spencer). My PhD research focused on Bayesian inference for spatio-temporal epidemic modelling. In particular, it involves Markov chain Monte Carlo methods, latent non-Gaussian hierarchical modelling, filtering methods for state space and hidden Markov models, outbreak detection, and likelihood-free methods for fitting infectious disease transmission models to data.
+I studied for my PhD in Statistics within the [Warwick Mathematics and Statistics Centre for Doctoral Training](https://warwick.ac.uk/fac/sci/statistics/), jointly supervised by [Professor Xavier Didelot](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/didelot) and [Professor Simon Spencer](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/spencer). My PhD research focused on Bayesian inference for spatio-temporal epidemic modelling. In particular, it involves Markov chain Monte Carlo methods, latent non-Gaussian hierarchical modelling, filtering methods for state space and hidden Markov models, outbreak detection, and likelihood-free methods for fitting infectious disease transmission models to data.
 
 Prior to starting my PhD at Warwick, I obtained a Master's degree in Medical Statistics from the University of London, School of Hygiene and Tropical Medicine, and a Bachelor's degree in Statistics from the University of Abuja.
 
