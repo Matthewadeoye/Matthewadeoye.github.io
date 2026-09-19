@@ -27,10 +27,10 @@ author:
   name             : "Matthew Adeoye"
   pronouns         : #  
   bio              : "Postdoctoral Researcher"
-  location         : "Coventry, United Kingdom"
-  employer         : "University of Warwick"
+  location         : "London, United Kingdom"
+  employer         : "Imperial College London"
   uri              : "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/adeoye/"
-  email            : "Matthew.Adeoye@warwick.ac.uk" 
+  email            : "m.adeoye@imperial.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Matthew-Adeoye"
   scopus           : # URL
   zotero           : # URL
 
